@@ -2612,16 +2612,16 @@
     <description>systemitem, class username</description>
   </snippet>
   <!-- XML-related Snippets: -->
-  <snippet id="xi:include">
+  <snippet id="include">
     <text><![CDATA[<xi:include href="${1}.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />]]></text>
-    <tag>xi:include</tag>
+    <tag>include</tag>
     <description>xi:include</description>
   </snippet>
-  <snippet id="xi:fallback">
+  <snippet id="fallback">
     <text><![CDATA[<xi:fallback xmlns:xi="http://www.w3.org/2001/XInclude">
 	${1}
 </xi:fallback>]]></text>
-    <tag>xi:fallback</tag>
+    <tag>fallback</tag>
     <description>xi:fallback</description>
   </snippet>
   <snippet id="xml">
