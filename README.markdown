@@ -6,6 +6,8 @@ The **gedit-snippets** repository provides a collection of code snippets for **g
 
 * **docbook.xml** — Snippets for the DocBook XML language according to the [DocBook: The Definitive Guide, version 2.0.17](http://www.docbook.org/tdg/).
 
+* **mallard.xml** — Snippets for the Mallard XML language according to [Mallard 1.0 DRAFT (as of 2013-02-11)](http://projectmallard.org/1.0/index.html).
+
 ## Installation
 
 ### Installing the Snippets in the Graphical User Interface
@@ -52,6 +54,6 @@ The snippets are unloaded the next time you start the editor.
 
 ## Copyright
 
-Copyright © 2012 Jaromir Hradilek
+Copyright © 2012, 2013 Jaromir Hradilek
 
 This program is free software; see the source for copying conditions. It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
