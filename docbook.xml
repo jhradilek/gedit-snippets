@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!--
   DocBook 4.5 snippets according to DocBook: The Definitive Guide (v2.0.17)
-  Copyright (C) 2012 Jaromir Hradilek
+  Copyright (C) 2012, 2013 Jaromir Hradilek
 
   Home Page:   https://github.com/jhradilek/gedit-snippets
-  Last Change: 7 September 2012
+  Last Change: 16 February 2013
 -->
 <snippets language="docbook">
   <!-- Core DocBook Snippets: -->
@@ -1223,12 +1223,12 @@
     <tag>msgentry</tag>
     <description>msgentry</description>
   </snippet>
-  <snippet id="msgexplain">
-    <text><![CDATA[<msgexplain>
+  <snippet id="msgexplan">
+    <text><![CDATA[<msgexplan>
 	${1}
-</msgexplain>]]></text>
-    <tag>msgexplain</tag>
-    <description>msgexplain</description>
+</msgexplan>]]></text>
+    <tag>msgexplan</tag>
+    <description>msgexplan</description>
   </snippet>
   <snippet id="msginfo">
     <text><![CDATA[<msginfo>
@@ -2401,12 +2401,12 @@
     <tag>videodata</tag>
     <description>videodata</description>
   </snippet>
-  <snippet id="videobject">
-    <text><![CDATA[<videobject>
+  <snippet id="videoobject">
+    <text><![CDATA[<videoobject>
 	${1}
-</videobject>]]></text>
-    <tag>videobject</tag>
-    <description>videobject</description>
+</videoobject>]]></text>
+    <tag>videoobject</tag>
+    <description>videoobject</description>
   </snippet>
   <snippet id="void">
     <text><![CDATA[<void />]]></text>
