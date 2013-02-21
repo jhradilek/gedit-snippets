@@ -199,7 +199,7 @@
     <description>quote</description>
   </snippet>
   <snippet id="revision">
-    <text><![CDATA[<revision version="${1}" date="${2}" status="${3:final}"/>]]></text>
+    <text><![CDATA[<revision version="${1:0.1}" date="$(2:date +%Y-%m-%d)" status="${3:stub}"/>]]></text>
     <tag>revision</tag>
     <description>revision</description>
   </snippet>
