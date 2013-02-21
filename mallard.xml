@@ -130,13 +130,13 @@
     <description>license</description>
   </snippet>
   <snippet id="link">
-    <text><![CDATA[<link type="${1:topic}" xref="${2}"/>]]></text>
+    <text><![CDATA[<link type="${1:guide}" xref="${2:index}" group="${3}"/>]]></text>
     <tag>link</tag>
     <description>link</description>
   </snippet>
   <snippet id="links">
-    <text><![CDATA[<links type="${1:topic}">
-	${2}
+    <text><![CDATA[<links type="${1:topic}" groups="${2}">
+	${3}
 </links>]]></text>
     <tag>links</tag>
     <description>links</description>
