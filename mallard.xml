@@ -309,7 +309,7 @@
     <description>var</description>
   </snippet>
   <snippet id="years">
-    <text><![CDATA[<years>${1}</years>]]></text>
+    <text><![CDATA[<years>$(1:date +%Y)</years>]]></text>
     <tag>years</tag>
     <description>years</description>
   </snippet>
