@@ -1472,8 +1472,8 @@
     <description>printhistory</description>
   </snippet>
   <snippet id="procedure">
-    <text><![CDATA[<procedure>
-	${1}
+    <text><![CDATA[<procedure id="${1}">
+	${2}
 </procedure>]]></text>
     <tag>procedure</tag>
     <description>procedure</description>
@@ -2146,8 +2146,8 @@
     <description>table</description>
   </snippet>
   <snippet id="task">
-    <text><![CDATA[<task>
-	${1}
+    <text><![CDATA[<task id="${1}">
+	${2}
 </task>]]></text>
     <tag>task</tag>
     <description>task</description>
