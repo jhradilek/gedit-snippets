@@ -519,7 +519,7 @@
     <description>copyright</description>
   </snippet>
   <snippet id="coref">
-    <text><![CDATA[<coref label="${1}" linkend="${1}" />]]></text>
+    <text><![CDATA[<coref label="${1}" linkend="${2}" />]]></text>
     <tag>coref</tag>
     <description>coref</description>
   </snippet>
