@@ -4,7 +4,7 @@
   Copyright (C) 2012, 2013 Jaromir Hradilek
 
   Home Page:   https://github.com/jhradilek/gedit-snippets
-  Last Change: 16 February 2013
+  Last Change: 18 March 2013
 -->
 <snippets language="docbook">
   <!-- Core DocBook Snippets: -->
@@ -98,8 +98,8 @@
     <description>area</description>
   </snippet>
   <snippet id="areaset">
-    <text><![CDATA[<areaset id="${1}" coords="${2}">
-	${3}
+    <text><![CDATA[<areaset id="${1}">
+	${2}
 </areaset>]]></text>
     <tag>areaset</tag>
     <description>areaset</description>
