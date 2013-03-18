@@ -1640,8 +1640,8 @@
     <description>refpurpose</description>
   </snippet>
   <snippet id="refsect1">
-    <text><![CDATA[<refsect1>
-	${1}
+    <text><![CDATA[<refsect1 id="${1}">
+	${2}
 </refsect1>]]></text>
     <tag>refsect1</tag>
     <description>refsect1</description>
@@ -1654,8 +1654,8 @@
     <description>refsect1info</description>
   </snippet>
   <snippet id="refsect2">
-    <text><![CDATA[<refsect2>
-	${1}
+    <text><![CDATA[<refsect2 id="${1}">
+	${2}
 </refsect2>]]></text>
     <tag>refsect2</tag>
     <description>refsect2</description>
@@ -1668,8 +1668,8 @@
     <description>refsect2info</description>
   </snippet>
   <snippet id="refsect3">
-    <text><![CDATA[<refsect3>
-	${1}
+    <text><![CDATA[<refsect3 id="${1}">
+	${2}
 </refsect3>]]></text>
     <tag>refsect3</tag>
     <description>refsect3</description>
@@ -1682,8 +1682,8 @@
     <description>refsect3info</description>
   </snippet>
   <snippet id="refsection">
-    <text><![CDATA[<refsection>
-	${1}
+    <text><![CDATA[<refsection id="${1}">
+	${2}
 </refsection>]]></text>
     <tag>refsection</tag>
     <description>refsection</description>
