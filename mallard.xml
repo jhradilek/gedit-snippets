@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!--
-  Mallard 1.0 snippets according to Mallard 1.0 DRAFT (as of 2013-02-11)
+  Mallard 1.0 snippets according to Mallard 1.0 DRAFT as of 2013-02-11
   Copyright (C) 2013 Jaromir Hradilek
 
   Home Page:   https://github.com/jhradilek/gedit-snippets
-  Last Change: 12 February 2013
+  Last Change: 13 July 2013
 -->
 <snippets language="mallard">
   <snippet id="app">
@@ -185,7 +185,9 @@
     <description>p</description>
   </snippet>
   <snippet id="page">
-    <text><![CDATA[<page xmlns="http://projectmallard.org/1.0/" type="${1:topic}" id="${2}">
+    <text><![CDATA[<page xmlns="http://projectmallard.org/1.0/"
+      type="${1:topic}"
+      id="${2}">
 	${3}
 </page>]]></text>
     <tag>page</tag>
