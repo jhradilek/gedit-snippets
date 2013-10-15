@@ -156,8 +156,8 @@
     <description>listing</description>
   </snippet>
   <snippet id="media">
-    <text><![CDATA[<media type="${1:image}" mime="${2:image/png}" src="${3}">
-	${4}
+    <text><![CDATA[<media type="${1:image}" mime="${2:image/png}" src="${3}" width="${4:400}" height="${5:300}">
+	${6}
 </media>]]></text>
     <tag>media</tag>
     <description>media</description>
